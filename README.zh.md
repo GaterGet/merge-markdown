@@ -43,5 +43,5 @@ Merge Markdown 是一个免费的在线工具，旨在将多个 Markdown 文件�
 
 如有任何问题或建议，请通过以下方式联系我们：
 
-*   Twitter: [@gaterget](https://x.com/gaterget)
+*   Twitter: [@getgater](https://x.com/getgater)
 *   GitHub: [GaterGet](https://github.com/GaterGet)

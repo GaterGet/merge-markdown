@@ -2,7 +2,7 @@
 
 Merge Markdown is a free online tool designed to merge multiple Markdown files into one. It offers a simple and user-friendly interface to quickly combine your Markdown documents, and supports multiple languages.
 
-[![中文 README](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-blue)](README_zh-CN.md)
+[![中文 README](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-blue)](README.zh-CN.md)
 
 ## Features
 
@@ -43,5 +43,5 @@ Thanks to all the developers who have contributed to this project!
 
 If you have any questions or suggestions, please contact us through:
 
-*   Twitter: [@gaterget](https://x.com/gaterget)
+*   Twitter: [@getgater](https://x.com/getgater)
 *   GitHub: [GaterGet](https://github.com/GaterGet)

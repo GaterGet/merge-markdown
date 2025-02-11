@@ -10,7 +10,7 @@ export default function Footer() {
 
 					<div className='flex items-center gap-4'>
 						<a
-							href='https://x.com/gaterget'
+							href='https://x.com/getgater'
 							target='_blank'
 							rel='noopener noreferrer'
 							className='text-gray-600 hover:text-blue-600 transition-colors flex items-center gap-1'
