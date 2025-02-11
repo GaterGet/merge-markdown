@@ -17,6 +17,8 @@ interface LayoutProps {
 	params: { locale: string };
 }
 
+export const runtime = "edge";
+
 export async function generateMetadata({ params }: Pick<LayoutProps, 'params'>
 ): Promise<Metadata> {
 	const  { locale }  = params
