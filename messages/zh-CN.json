@@ -1,0 +1,24 @@
+{
+  "Index": {
+    "title": "Markdown 合并工具",
+    "selectFiles": "选择 Markdown 文件",
+    "merge": "合并",
+    "download": "下载合并后的文件",
+    "fileReadError": "文件读取失败，请重试。",
+    "noFilesSelected": "请选择要合并的 Markdown 文件。",
+    "noMergedContent": "请先合并文件。",
+    "label": "简体中文",
+    "description": "在线合并多个markdown文件成一个文件"
+  },
+  "metadata": {
+    "title": "Merge Markdown - 批量 markdown 文件合并工具",
+    "description": "在线合并多个 markdown 文件成一个文件",
+    "keywords": "Markdown合并,批量合并,markdown在线合并"
+  },
+  "footer": {
+    "creator": "Created with ❤️ by GaterGet",
+    "twitter": "@gaterget",
+    "coffee": "Buy Me a Coffee",
+    "github": "GitHub"
+  }
+}

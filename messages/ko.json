@@ -1,0 +1,24 @@
+{
+  "Index": {
+    "title": "Markdown 병합 도구",
+    "selectFiles": "Markdown 파일 선택",
+    "merge": "병합",
+    "download": "병합된 파일 다운로드",
+    "fileReadError": "파일 읽기 실패, 다시 시도해주세요.",
+    "noFilesSelected": "병합할 Markdown 파일을 선택해주세요.",
+    "noMergedContent": "먼저 파일을 병합해주세요.",
+    "label": "한국어",
+    "description": "Markdown 파일들을 од똅어병합하는無料도구"
+  },
+  "metadata": {
+    "title": "Markdown 병합 도구 - 배치 markdown 파일 병합 도구",
+    "description": "Markdown 파일들을 од똅어병합하는無料도구",
+    "keywords": "MarkdownMerge, BatchMerge, MarkdownOnlineMerge"
+  },
+  "footer": {
+    "creator": "Created with ❤️ by GaterGet",
+    "twitter": "@gaterget",
+    "coffee": "Buy Me a Coffee",
+    "github": "GitHub"
+  }
+}

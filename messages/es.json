@@ -1,0 +1,24 @@
+{
+  "Index": {
+    "title": "Herramienta de fusión Markdown",
+    "selectFiles": "Seleccionar archivos Markdown",
+    "merge": "Fusionar",
+    "download": "Descargar archivo fusionado",
+    "fileReadError": "Error al leer el archivo, por favor intenta de nuevo.",
+    "noFilesSelected": "Por favor, selecciona los archivos Markdown para fusionar.",
+    "noMergedContent": "Por favor, fusiona los archivos primero.",
+    "label": "Español",
+    "description": "Fusionar varios archivos Markdown en uno para gratis"
+  },
+  "metadata": {
+    "title": "Herramienta de fusión Markdown",
+    "description": "Fusionar varios archivos Markdown en uno para gratis",
+    "keywords": "Markdown, Fusionar, Fusionación"
+  },
+  "footer": {
+    "creator": "Creado con ❤️ por GaterGet",
+    "twitter": "@gaterget",
+    "coffee": "Buy Me a Coffee",
+    "github": "GitHub"
+  }
+}

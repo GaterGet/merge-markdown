@@ -1,0 +1,27 @@
+{
+  "Index": {
+    "title": "Markdown-Dateien zusammenführen",
+    "selectFiles": "Markdown-Dateien auswählen",
+    "merge": "Zusammenführen",
+    "download": "Herunterladen",
+    "noFilesSelected": "Keine Dateien ausgewählt",
+    "fileReadError": "Fehler beim Lesen der Datei",
+    "noMergedContent": "Kein zusammengeführter Inhalt verfügbar",
+    "learn": "Lernen",
+    "examples": "Beispiele",
+    "goToNextJsOrg": "Zu nextjs.org gehen →",
+    "label": "Deutsch",
+    "description": "Mehrere Markdown-Dateien in eine zusammenfassen"
+  },
+  "metadata": {
+    "title": "Markdown-Dateien zusammenführen",
+    "description": "Mehrere Markdown-Dateien in eine zusammenfassen",
+    "keywords": "Markdown, Zusammenfassung, Zusammenführung"
+  },
+  "footer": {
+    "creator": "Erstellt mit ❤️ von GaterGet",
+    "twitter": "@gaterget",
+    "coffee": "Buy Me a Coffee",
+    "github": "GitHub"
+  }
+}

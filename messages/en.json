@@ -1,0 +1,24 @@
+{
+  "Index": {
+    "title": "Merge Markdown",
+    "selectFiles": "Select Markdown Files",
+    "merge": "Merge",
+    "download": "Download Merged File",
+    "fileReadError": "Failed to read file, please try again.",
+    "noFilesSelected": "Please select Markdown files to merge.",
+    "noMergedContent": "Please merge files first.",
+    "label": "English",
+    "description": "Merge Multiple Markdown Files into One for Free"
+  },
+  "metadata": {
+    "title": "Merge Markdown - Batch Markdown Merge Tool",
+    "description": "Merge Multiple Markdown Files into One for Free",
+    "keywords": "MarkdownMerge, BatchMerge, MarkdownOnlineMerge"
+  },
+  "footer": {
+    "creator": "Created with ❤️ by GaterGet",
+    "twitter": "@gaterget",
+    "coffee": "Buy Me a Coffee",
+    "github": "GitHub"
+  }
+}

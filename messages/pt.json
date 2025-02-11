@@ -1,0 +1,24 @@
+{
+  "Index": {
+    "title": "Ferramenta de fusão Markdown",
+    "selectFiles": "Selecionar arquivos Markdown",
+    "merge": "Fundir",
+    "download": "Baixar arquivo fundido",
+    "fileReadError": "Falha ao ler o arquivo, por favor tente novamente.",
+    "noFilesSelected": "Por favor, selecione os arquivos Markdown para fundir.",
+    "noMergedContent": "Por favor, funda os arquivos primeiro.",
+    "label": "Português",
+    "description": "Fusionar varios arquivos Markdown em um para gratis"
+  },
+  "metadata": {
+    "title": "Merge Markdown - Outil de fusion Markdown",
+    "description": "Fusionar varios arquivos Markdown em um para gratis",
+    "keywords": "MarkdownMerge, BatchMerge, MarkdownOnlineMerge"
+  },
+  "footer": {
+    "creator": "Created with ❤️ by GaterGet",
+    "twitter": "@gaterget",
+    "coffee": "Buy Me a Coffee",
+    "github": "GitHub"
+  }
+}

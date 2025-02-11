@@ -1,0 +1,24 @@
+{
+  "Index": {
+    "title": "Outil de fusion Markdown",
+    "selectFiles": "Sélectionner des fichiers Markdown",
+    "merge": "Fusionner",
+    "download": "Télécharger le fichier fusionné",
+    "fileReadError": "Échec de la lecture du fichier, veuillez réessayer.",
+    "noFilesSelected": "Veuillez sélectionner les fichiers Markdown à fusionner.",
+    "noMergedContent": "Veuillez d'abord fusionner les fichiers.",
+    "label": "Français",
+    "description": "Fusionne plusieurs fichiers Markdown en un seul pour gratuitement"
+  },
+  "metadata": {
+    "title": "Merge Markdown - Outil de fusion Markdown",
+    "description": "Fusionne plusieurs fichiers Markdown en un seul pour gratuitement",
+    "keywords": "MarkdownMerge, BatchMerge, MarkdownOnlineMerge"
+  },
+  "footer": {
+    "creator": "Créé avec ❤️ par Gaterget",
+    "twitter": "@gaterget",
+    "coffee": "Buy Me a Coffee",
+    "github": "GitHub"
+  }
+}
