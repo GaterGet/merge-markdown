@@ -1,24 +1,12 @@
 import type { Metadata } from 'next'
 import { NextIntlClientProvider, useMessages } from 'next-intl'
 import { Montserrat } from 'next/font/google'
-import { locales } from '@/i18n/i18n'
 import { ToastProvider } from '@/components/ui/toast'
 import Analytics from '@/components/Analytics'
 import { Toaster } from '@/components/ui/toaster'
 
 const monserrat = Montserrat({ subsets: ['latin'] })
 
-// export const metadata: Metadata = {
-// 	title: {
-// 		template: '%s | Next-Intl Multiple Languages',
-// 		default: 'Next-Intl Multiple Languages'
-// 	},
-// 	description:
-// 		"Next-Intl is a Next.js template that's pre-configured with multiple languages and dark mode. It's built with Tailwind CSS, TypeScript, and ESLint."
-// }
-// export function generateStaticParams() {
-// 	return locales.map((locale) => ({locale}));
-// }
 interface IRootLayoutProps {
 	children: React.ReactNode
 	params: { locale: string }

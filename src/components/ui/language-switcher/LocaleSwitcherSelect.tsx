@@ -12,11 +12,7 @@ interface ILocaleSwitcherSelect {
 	label: string
 }
 
-export function LocaleSwitcherSelect({
-																			 children,
-																			 defaultValue,
-																			 label
-																		 }: ILocaleSwitcherSelect) {
+export function LocaleSwitcherSelect({ children, defaultValue, label }: ILocaleSwitcherSelect) {
 	const router = useRouter()
 	const [isPending, startTransition] = useTransition()
 	const pathname = usePathname()
