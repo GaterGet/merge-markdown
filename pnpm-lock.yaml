@@ -51,6 +51,12 @@ importers:
       '@types/react-dom':
         specifier: ^18
         version: 18.3.0
+      '@typescript-eslint/eslint-plugin':
+        specifier: ^8.24.0
+        version: 8.24.0(@typescript-eslint/parser@8.24.0(eslint@8.57.1)(typescript@5.4.5))(eslint@8.57.1)(typescript@5.4.5)
+      '@typescript-eslint/parser':
+        specifier: ^8.24.0
+        version: 8.24.0(eslint@8.57.1)(typescript@5.4.5)
       eslint:
         specifier: ^8
         version: 8.57.1
@@ -2419,7 +2425,7 @@ snapshots:
       '@typescript-eslint/types': 8.24.0
       '@typescript-eslint/typescript-estree': 8.24.0(typescript@5.4.5)
       '@typescript-eslint/visitor-keys': 8.24.0
-      debug: 4.3.4
+      debug: 4.4.0
       eslint: 8.57.1
       typescript: 5.4.5
     transitivePeerDependencies:
@@ -2434,7 +2440,7 @@ snapshots:
     dependencies:
       '@typescript-eslint/typescript-estree': 8.24.0(typescript@5.4.5)
       '@typescript-eslint/utils': 8.24.0(eslint@8.57.1)(typescript@5.4.5)
-      debug: 4.3.4
+      debug: 4.4.0
       eslint: 8.57.1
       ts-api-utils: 2.0.1(typescript@5.4.5)
       typescript: 5.4.5
@@ -2447,7 +2453,7 @@ snapshots:
     dependencies:
       '@typescript-eslint/types': 8.24.0
       '@typescript-eslint/visitor-keys': 8.24.0
-      debug: 4.3.4
+      debug: 4.4.0
       fast-glob: 3.3.2
       is-glob: 4.0.3
       minimatch: 9.0.4

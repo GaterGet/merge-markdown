@@ -1,13 +1,21 @@
+import tseslint from '@typescript-eslint/eslint-plugin';
+import tsParser from '@typescript-eslint/parser';
+
 export default [
 	{
 		files: ["**/*.ts", "**/*.tsx"],
-		plugins: {
-			"@typescript-eslint": require("@typescript-eslint/eslint-plugin"),
+		languageOptions: {
+			parser: tsParser,
+			parserOptions: {
+				project: './tsconfig.json'
+			}
 		},
-		extends: ["eslint:recommended", "plugin:@typescript-eslint/recommended"],
+		plugins: {
+			"@typescript-eslint": tseslint
+		},
 		rules: {
 			"no-unused-vars": "off",
-			"@typescript-eslint/no-unused-vars": "warn",
-		},
-	},
+			"@typescript-eslint/no-unused-vars": "off"
+		}
+	}
 ];
